@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "523985880579",
+    "firebase_url": "https://rangapp-delivery-da4de.firebaseio.com",
+    "project_id": "rangapp-delivery-da4de",
+    "storage_bucket": "rangapp-delivery-da4de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523985880579:android:04a479bbdec1ff6fedf036",
+        "android_client_info": {
+          "package_name": "com.smartersvision.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523985880579-krv4hn9qh3tcet8t4c9o2nt572k54rqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Bo6wvpp8SD--HgmvxD2Q6IwvqbpA5fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523985880579-krv4hn9qh3tcet8t4c9o2nt572k54rqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
